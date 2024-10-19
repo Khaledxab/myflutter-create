@@ -1,0 +1,8 @@
+pubspec.yaml
+pubspec.lock
+.dart_tool/
+assets/
+lib/
+test/
+.flutter-plugins
+.flutter-plugins-dependencies
