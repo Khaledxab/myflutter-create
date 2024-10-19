@@ -65,6 +65,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'routes/app_pages.dart';
+import 'package:my_flutter_app/routes/app_routes.dart';
+
 
 void main() async {
   await GetStorage.init(); // Initialize GetStorage for persistent data
